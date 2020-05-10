@@ -4,7 +4,7 @@
 
 ### Программа считает дискриминант, а в зависимости от его результата считает корни.
 
-# Запуск
+# Установка / Installation
 ```bash
 git clone https://github.com/rady1337/SquareEquationCalculator.git
 cd SquareEquationCalculator
